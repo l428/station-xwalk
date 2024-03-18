@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: https://author-p133071-e1294174.adobeaemcloud.com/
+    type: "markup"
+    suffix: ".md.html"
